@@ -5,8 +5,13 @@ export default function Navbar() {
   return (
     <div>
       <nav
-        className="navbar navbar-expand-lg bg-light"
-        style={{ display: "flex" }}
+        className="navbar navbar-expand-lg bg-white"
+        style={{
+          display: "flex",
+          position: "fixed",
+          width: "100%",
+         
+        }}
       >
         <div className="container-fluid">
           <div
