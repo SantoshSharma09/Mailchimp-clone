@@ -61,6 +61,33 @@ We made this project within the 4 days
 This project was built using ReactJs, Chakra UI, HTML, CSS, JavaScript . It is an e-commerce web application and for running on your local environment you should follow these guidelines.
 
 
+## Glimpses of Mailchimp-Clone :
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/109049556/222055513-e2d3ca1d-6d42-429d-930a-aae51bd2dded.PNG"  alt="home" /></td>
+  </tr>
+  <br/>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/109049556/222055461-3b24dd11-8268-4ffd-9a57-39f470807147.PNG"  alt="" /></td>
+  </tr>
+  <br/>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/109049556/222055561-71d172c9-38e3-4636-ae50-8e60afcf870c.PNG"  alt="" /></td>
+  </tr>
+  <br/>
+   <tr>
+    <td><img src="https://user-images.githubusercontent.com/109049556/222055544-c8ddbccf-9961-42ce-b712-70d5b54d825b.PNG"   alt="" /></td>
+  </tr>
+  <br/>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/109049556/222055572-f8f2da0a-6fdf-4091-aa13-2ce9b2699aa4.PNG"  alt="" /></td>
+  </tr>
+  <br/>
+
+  <br/>
+
+</table>
+
 ### Tools used on this project
 
 - Visual Studio Code
@@ -77,6 +104,7 @@ If you want to contact us, you can reach me through below handles. <br />
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 
 
